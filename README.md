@@ -1,4 +1,4 @@
-# Oracle Multicloud Solution for Fusion – Loading Data into Snowflake, S3, Azure Blob Storage and GCP Cloud Storage
+# Load Oracle Fusion Cloud ERP data into Snowflake
 
 
 
@@ -7,7 +7,6 @@
 You can load data from Oracle Fusion Cloud Enterprise Resource Planning (ERP) or other Oracle Fusion Cloud Applications into various cloud storage solutions, such as Snowflake, using intermediaries like Amazon S3, Azure Blob, or Google Cloud Storage. You can implement a multicloud strategy and have the flexibility to utilize any data warehouse or cloud service provider for your organizational needs.
 
 In this solution, you consider the advantages and disadvantages of three architecture options, and identify and implement the architecture with the least tradeoffs in your organization.
-
 
 
 ## About Required Services and Roles
