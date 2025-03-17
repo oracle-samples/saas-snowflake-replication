@@ -1,15 +1,12 @@
 # Load Oracle Fusion Cloud ERP data into Snowflake
 
-
-
-## Introduction
-
 You can load data from Oracle Fusion Cloud Enterprise Resource Planning (ERP) or other Oracle Fusion Cloud Applications into various cloud storage solutions, such as Snowflake, using intermediaries like Amazon S3, Azure Blob, or Google Cloud Storage. You can implement a multicloud strategy and have the flexibility to utilize any data warehouse or cloud service provider for your organizational needs.
 
 In this solution, you consider the advantages and disadvantages of three architecture options, and identify and implement the architecture with the least tradeoffs in your organization.
 
+## Installation
 
-## About Required Services and Roles
+This solution playbook uses the following Services:
 
 [Oracle Autonomous Data Warehouse](https://www.oracle.com/autonomous-database/autonomous-data-warehouse/)
 Oracle Autonomous Data Warehouse is the world’s first and only autonomous database optimized for analytic workloads, including data marts, data warehouses, data lakes, and data lakehouses.
@@ -37,17 +34,23 @@ BICC is available as part of the Oracle Applications Cloud subscription. Additio
 [Python](https://www.python.org/)
   - [Oracle Cloud Infrastructure SDK for Python](https://docs.oracle.com/en-us/iaas/Content/API/SDKDocs/pythonsdk.htm)
 
-## Load Oracle Fusion Cloud ERP data into Snowflake
+Please, check the Documentation section for a step by step.
+
+## Documentation
 
 Please, navigate to [Oracle Architecture Center](https://docs-uat.us.oracle.com/en/solutions/load-fusion-erp-data-snowflake/index.html#GUID-1C007BD1-370C-4147-887C-DB3B19AEF036) to follow the step by step to load data into Snowflake.
+
+## Examples
+
+You can find some examples in this repository unde Code folder and [Oracle Architecture Center](https://docs-uat.us.oracle.com/en/solutions/load-fusion-erp-data-snowflake/index.html#GUID-1C007BD1-370C-4147-887C-DB3B19AEF036)
+
+## Help
+If you need help with this sample, please log an issue within this repository and the code owners will help out where we can.
 
 ## Security
 
 Oracle takes security seriously and has a dedicated response team for [reporting security vulnerabilities](./SECURITY.md) and to answer any security and vulnerability related questions.
 
-## Contributing
-
-We welcome all contributions to this sample and have a [contribution guide](./CONTRIBUTING.md) for you to follow if you'd like to contribute.
 
 ## Distribution
 Developers choosing to distribute a binary implementation of this project are responsible for obtaining and providing all required licenses and copyright notices for the third-party code used in order to ensure compliance with their respective open source licenses.
@@ -59,7 +62,7 @@ If you need help with this sample, please log an issue within this repository an
 
 ## License
 
-Copyright (c) 2022 Oracle and/or its affiliates. 
+Copyright (c) 2025 Oracle and/or its affiliates. 
 
 Licensed under the Universal Permissive License v 1.0 as shown at 
 https://oss.oracle.com/licenses/upl.
