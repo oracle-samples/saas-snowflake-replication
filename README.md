@@ -52,7 +52,6 @@ If you need help with this sample, please log an issue within this repository an
 Oracle takes security seriously and has a dedicated response team for [reporting security vulnerabilities](./SECURITY.md) and to answer any security and vulnerability related questions.
 
 ## Contributing
-
 This project welcomes contributions from the community. Before submitting a pull request, please [review our contribution guide](./CONTRIBUTING.md)
 
 ## Distribution
