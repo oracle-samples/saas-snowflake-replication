@@ -14,8 +14,8 @@ Oracle Autonomous Data Warehouse is the world’s first and only autonomous data
 [Oracle Cloud Infrastructure GoldenGate](https://docs.oracle.com/en/cloud/paas/goldengate-service/druyg/index.html)
 Oracle Cloud Infrastructure GoldenGate is a fully managed, native cloud service that moves data in real-time, at scale. OCI GoldenGate processes data as it moves from one or more data management systems to target databases. 
 
-[OCI Data Integration](https://docs.oracle.com/en-us/iaas/data-integration/home.htm)
-Data Integration is a fully managed, multi-tenant service that helps data engineers and developers with data movement and data loading tasks. Powered by Spark ETL or ELT processes, a large volume of data can be ingested from a variety of data assets; cleansed; transformed and reshaped; and efficiently loaded to Oracle Cloud Infrastructure target data assets.
+[Oracle Data Transforms]([https://docs.oracle.com/en-us/iaas/data-integration/home.htm](https://docs.oracle.com/en/cloud/paas/autonomous-database/serverless/adbsb/catalog-entities.html))
+Oracle Data Transforms allows you to design graphical data transformations in the form of data loads, data flows, and workflows. Data Loads provide a convenient way of loading data into Oracle Autonomous Database.
 
 [OCI Data Science](https://www.oracle.com/artificial-intelligence/data-science/)
 Oracle Cloud Infrastructure (OCI) Data Science is a fully managed platform for teams of data scientists to build, train, deploy, and manage machine learning (ML) models using Python and open source tools. Use a JupyterLab-based environment to experiment and develop models.
@@ -38,11 +38,11 @@ Please, check the Documentation section for a step by step.
 
 ## Documentation
 
-Please, navigate to [Oracle Architecture Center](https://docs-uat.us.oracle.com/en/solutions/load-fusion-erp-data-snowflake/index.html#GUID-1C007BD1-370C-4147-887C-DB3B19AEF036) to follow the step by step to load data into Snowflake.
+Please, navigate to [Oracle Architecture Center](https://docs.oracle.com/en/solutions/load-fusion-erp-data-snowflake/index.html) to follow the step by step to load data into Snowflake.
 
 ## Examples
 
-You can find some examples in this repository unde Code folder and [Oracle Architecture Center](https://docs-uat.us.oracle.com/en/solutions/load-fusion-erp-data-snowflake/index.html#GUID-1C007BD1-370C-4147-887C-DB3B19AEF036)
+You can find some examples in this repository unde Code folder and [Oracle Architecture Center](https://docs.oracle.com/en/solutions/load-fusion-erp-data-snowflake/index.html)
 
 ## Help
 If you need help with this sample, please log an issue within this repository and the code owners will help out where we can.
