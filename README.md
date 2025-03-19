@@ -14,7 +14,7 @@ Oracle Autonomous Data Warehouse is the world’s first and only autonomous data
 [Oracle Cloud Infrastructure GoldenGate](https://docs.oracle.com/en/cloud/paas/goldengate-service/druyg/index.html)
 Oracle Cloud Infrastructure GoldenGate is a fully managed, native cloud service that moves data in real-time, at scale. OCI GoldenGate processes data as it moves from one or more data management systems to target databases. 
 
-[Oracle Data Transforms]([https://docs.oracle.com/en-us/iaas/data-integration/home.htm](https://docs.oracle.com/en/cloud/paas/autonomous-database/serverless/adbsb/catalog-entities.html) allows you to design graphical data transformations in the form of data loads, data flows, and workflows. Data Loads provide a convenient way of loading data into Oracle Autonomous Database.
+[Oracle Data Transforms](https://docs.oracle.com/en/cloud/paas/autonomous-database/serverless/adbsb/catalog-entities.html) allows you to design graphical data transformations in the form of data loads, data flows, and workflows. Data Loads provide a convenient way of loading data into Oracle Autonomous Database.
 
 [OCI Data Science](https://www.oracle.com/artificial-intelligence/data-science/)
 Oracle Cloud Infrastructure (OCI) Data Science is a fully managed platform for teams of data scientists to build, train, deploy, and manage machine learning (ML) models using Python and open source tools. Use a JupyterLab-based environment to experiment and develop models.
